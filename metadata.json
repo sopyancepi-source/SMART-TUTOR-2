@@ -1,0 +1,8 @@
+{
+  "name": "Smart Tutor School",
+  "description": "Aplikasi Smart Tutor School - Pembelajaran Interaktif dan Modul Asah Otak & Kecerdasan Anak berbasis AI",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
